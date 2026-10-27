@@ -14,15 +14,15 @@ Migrar un portátil ASUS K53E desde Windows 10 hacia MX Linux XFCE.
 | Procesador | Intel Core i5-2450M |
 | Memoria RAM | 4 GB |
 | Disco duro | 500 GB |
-| Sistema original | Windows 10 |
+| Sistema anterior | Windows 10 |
 
 ---
 
 ## Requisitos previos
 
-Antes de iniciar la instalación:
+Antes de comenzar:
 
-- Realizar copia de seguridad de los archivos importantes.
+- Realizar copia de seguridad de archivos importantes.
 - Descargar la imagen ISO de MX Linux XFCE.
 - Disponer de una memoria USB de al menos 8 GB.
 - Descargar Rufus para crear el USB de instalación.
@@ -30,44 +30,44 @@ Antes de iniciar la instalación:
 
 ---
 
-## Descargas utilizadas
+## Software utilizado
+
+### Sistema Operativo
+
+- MX Linux XFCE x64
+
+### Herramienta para crear el USB
+
+- Rufus
+
+---
+
+## Descargas
 
 ### MX Linux
 
 Sitio oficial:
 
-```text
-https://mxlinux.org/download-links/
-```
-
-Versión:
-
-```text
-MX Linux XFCE x64
-```
-
----
+https://mxlinux.org
 
 ### Rufus
 
 Sitio oficial:
 
-```text
 https://rufus.ie
-```
 
 ---
 
 ## Objetivos del proyecto
 
-- Reemplazar completamente Windows 10.
+- Sustituir completamente Windows 10.
 - Instalar MX Linux XFCE.
 - Configurar Swap y ZRAM.
 - Optimizar el sistema para 4 GB de RAM.
-- Documentar todo el proceso en GitHub.
+- Documentar el proceso completo en GitHub.
 
 ---
 
 ## Resultado esperado
 
-Un sistema Linux estable, rápido y funcional para el uso diario en un ASUS K53E.
+Obtener un sistema Linux estable, ligero y funcional para uso diario.

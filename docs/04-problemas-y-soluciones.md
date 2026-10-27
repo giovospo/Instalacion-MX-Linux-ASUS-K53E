@@ -54,7 +54,7 @@ La actualización se ejecutó inicialmente desde la sesión Live de MX Linux.
 El usuario activo era:
 
 ```bash
-demo
+password
 ```
 
 lo que indicaba que el sistema estaba funcionando desde el USB.
@@ -76,7 +76,7 @@ whoami
 Resultado:
 
 ```text
-giovospo
+"nombre del usuario asignado en la instalación"
 ```
 
 ---

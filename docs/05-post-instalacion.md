@@ -11,7 +11,7 @@ whoami
 Resultado esperado:
 
 ```text
-giovospo
+Usuario Linux MX
 ```
 
 ---

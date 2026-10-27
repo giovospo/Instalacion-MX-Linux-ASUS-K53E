@@ -16,12 +16,12 @@
 
 ## Configuración de red
 
-- Nombre del equipo: ASUS53-GIO
-- Dominio: SMARTCODE
+- Nombre del equipo: ASUS53-"Nombre del equipo"
+- Dominio: "Nombre del servidoro de la red LAN"
 
 ## Usuario creado
 
-- Usuario: giovospo
+- Usuario: "Nombre del usuario"
 
 ## Resultado
 

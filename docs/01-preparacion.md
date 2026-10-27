@@ -15,7 +15,7 @@ Migrar un portátil ASUS K53E desde Windows 10 hacia MX Linux XFCE.
 | Memoria RAM | 4 GB |
 | Disco duro | 500 GB |
 | Sistema anterior | Windows 10 |
-
+| Tarjeta gráfica | Intel HD Graphics 3000 |
 ---
 
 ## Requisitos previos
@@ -65,7 +65,8 @@ https://rufus.ie
 - Configurar Swap y ZRAM.
 - Optimizar el sistema para 4 GB de RAM.
 - Documentar el proceso completo en GitHub.
-
+- Utilizar Microsoft Copilot desde Linux.
+- Aprender Git y GitHub.
 ---
 
 ## Resultado esperado

@@ -167,3 +167,7 @@ sudo apt update
 ## Autor
 
 **Giovanni Ospina Osorio**
+
+Correo: delta9gio@gmail.com
+
+GitHub: https://github.com/giovospo

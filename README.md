@@ -253,4 +253,3 @@ sudo apt update
 Correo: delta9gio@gmail.com
 
 GitHub: https://github.com/giovospo
-main
